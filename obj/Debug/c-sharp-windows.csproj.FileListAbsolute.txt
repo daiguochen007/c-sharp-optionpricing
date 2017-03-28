@@ -1,0 +1,9 @@
+c:\users\dai\documents\visual studio 2012\Projects\c-sharp-windows\c-sharp-windows\bin\Debug\c-sharp-windows.exe.config
+c:\users\dai\documents\visual studio 2012\Projects\c-sharp-windows\c-sharp-windows\bin\Debug\c-sharp-windows.exe
+c:\users\dai\documents\visual studio 2012\Projects\c-sharp-windows\c-sharp-windows\bin\Debug\c-sharp-windows.pdb
+c:\users\dai\documents\visual studio 2012\Projects\c-sharp-windows\c-sharp-windows\obj\Debug\c_sharp_windows.Form1.resources
+c:\users\dai\documents\visual studio 2012\Projects\c-sharp-windows\c-sharp-windows\obj\Debug\c_sharp_windows.Properties.Resources.resources
+c:\users\dai\documents\visual studio 2012\Projects\c-sharp-windows\c-sharp-windows\obj\Debug\c-sharp-windows.csproj.GenerateResource.Cache
+c:\users\dai\documents\visual studio 2012\Projects\c-sharp-windows\c-sharp-windows\obj\Debug\c-sharp-windows.exe
+c:\users\dai\documents\visual studio 2012\Projects\c-sharp-windows\c-sharp-windows\obj\Debug\c-sharp-windows.pdb
+c:\users\dai\documents\visual studio 2012\Projects\c-sharp-windows\c-sharp-windows\obj\Debug\c-sharp-windows.csprojResolveAssemblyReference.cache
